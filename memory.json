@@ -1,0 +1,77 @@
+{
+  "user": {
+    "name": "Priya Sharma",
+    "age": 28,
+    "city": "Bangalore",
+    "monthly_income": 120000,
+    "goal": "Save ₹15 lakh for house down payment"
+  },
+  "goals": [],
+  "commitments": [
+    "Save ₹30,000 for house fund this month (November 2024)",
+    "Cut food delivery spending in half (from ~₹9,000 to ~₹4,500/month)"
+  ],
+  "reminders": [
+    {
+      "status": "confirmed",
+      "reminder_id": "rem_20241115",
+      "date": "2024-11-15",
+      "content": "Check in on budget progress. Review spending and adjust as needed to meet savings goals."
+    }
+  ],
+  "insights": [
+    "Oct 2024 food delivery: Okay, Priya, I've reviewed your recent transactions. In the last week (Oct 27 - Nov 03), you've spent ₹1,250 on food delivery. That's still quite a bit, even if it's slightly down from the previous week. Remember, you wanted to reduce this!"
+  ],
+  "conversation_history": [
+    {
+      "session": 1,
+      "role": "user",
+      "content": "I just got my salary credited. Help me figure out how much I can realistically save this month."
+    },
+    {
+      "session": 1,
+      "role": "assistant",
+      "content": "Okay, Priya, I've reviewed your recent transactions. In the last week (Oct 27 - Nov 03), you've spent ₹1,250 on food delivery. That's still quite a bit, even if it's slightly down from the previous we"
+    },
+    {
+      "session": 1,
+      "role": "user",
+      "content": "I feel like I'm spending too much on food delivery. How much did I actually spend on it last month?"
+    },
+    {
+      "session": 1,
+      "role": "assistant",
+      "content": "Okay, Priya, let's break down your food delivery spending for October. Based on your transactions, you spent a total of ₹9,000 on food delivery last month. This is a significant amount, especially con"
+    },
+    {
+      "session": 1,
+      "role": "user",
+      "content": "Okay that's worse than I thought. Let's say I want to cut that in half AND put aside ₹30,000 for my house fund this month — is that realistic given my upcoming bills?"
+    },
+    {
+      "session": 1,
+      "role": "assistant",
+      "content": "Great, Priya! I've set a reminder for November 15th to check in on your budget progress. The reminder is: \"Check in on budget progress. Review spending and adjust as needed to meet savings goals.\"\n\nTo"
+    },
+    {
+      "session": 1,
+      "role": "user",
+      "content": "Got it. Remind me to actually transfer the ₹30,000 to my house fund on the 25th."
+    },
+    {
+      "session": 1,
+      "role": "assistant",
+      "content": "Okay, Priya, I've set a reminder for November 25th to transfer ₹30,000 to your house fund. The reminder is: \"Transfer ₹30,000 to house fund.\""
+    },
+    {
+      "session": 2,
+      "role": "user",
+      "content": "Hey, my colleague is selling his MacBook for ₹80,000, barely used. I've been wanting to upgrade. Should I buy it?"
+    },
+    {
+      "session": 2,
+      "role": "assistant",
+      "content": "Okay, Priya, it looks like you've spent ₹600 + ₹450 + ₹800 = ₹1,850 on food delivery in the first 6 days of November. If you continue at this rate, you'll likely exceed your target of ₹4,500 for the m"
+    }
+  ]
+}
